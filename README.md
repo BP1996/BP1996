@@ -82,7 +82,7 @@ Me chamo Bruno Marques Prado, tenho 28 anos e sou natural da Bahia. Formado em S
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=BP1996&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
