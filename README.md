@@ -2,7 +2,17 @@
 
 **`Analista de Dados / Ciência de Dados`**
 
-Me chamo Bruno Marques Prado, tenho 28 anos e sou natural da Bahia. Formado em Sistemas de Informação pela FTC, hoje sou apaixonado pela Áera de Dados. Atualmente, estou cursando Ciencia de Dados na UNINTER.
+Pessoa determinada, proativa e em constante busca por desenvolvimento pessoal, intelectual e profissional.
+
+🎓 Curso graduação em Ciência de Dados.
+
+🎓 Fromado em Sistemas de Informação.
+
+📈 Tenho habilidade em SQL para manipulação e análise de dados.
+
+🔭 Atualmente, estou trabalhando em projetos práticos usando SQL e PowerBI.
+
+🌱 Também estou estudando o Python, curso de Fundamentos de Linguagem Python Para Análise de Dados e Data Science.
 
 <p align="left">
      <a href="pradoddm@gmail.com">
